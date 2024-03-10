@@ -50,6 +50,7 @@ I am Kenneth Rodriguez, a computer science student from Mexico with a passion fo
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/kenneth-r-972305135/)
 - [Bluesky](https://bsky.app/profile/kennethrdzg.bsky.social)
+- [Mastodon](https://mastodon.social/@kennethrdzg)
 
 ### 😄 Pronouns:
 He/Him
