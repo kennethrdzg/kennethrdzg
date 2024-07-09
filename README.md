@@ -6,16 +6,6 @@ I am Kenneth Rodriguez, a computer scientist from Mexico with a passion for all 
 - A store management app
 - A microblogging app
 
-<!--
-### My projects
-- Social Media App: Gourmet
-- Task Manager
-- Blog
-- Game
-- Social Media dashboard
-- Weather App (or some other API)
--->
-
 ### 🌱 I’m currently learning ...
 - Android app development
 - Google Cloud Platform
