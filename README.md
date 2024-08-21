@@ -2,10 +2,6 @@
 
 I am Kenneth Rodriguez, a computer scientist from Mexico with a passion for all things about programming. I have worked with C++, Java, Python, Angular, PostgreSQL, and a few other things. 
 
-### 🔭 I’m currently working on ...
-- A store management app
-- A microblogging app
-
 ### 🌱 I’m currently learning ...
 - Android app development
 - Google Cloud Platform
