@@ -3,9 +3,8 @@
 I am Kenneth Rodriguez, a computer scientist from Mexico with a passion for all things about programming. I have worked with C++, Java, Python, Angular, PostgreSQL, and a few other things. 
 
 ### 🌱 I’m currently learning ...
-- Android app development
-- Google Cloud Platform
-- Linux system administration
+- Back End Development with Java and Spring
+- Artificial Intelligence and Machine Learning
 
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/kenneth-r-972305135/)
